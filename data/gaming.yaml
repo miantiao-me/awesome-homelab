@@ -1,3 +1,6 @@
+- name: Mindustry
+  url: https://github.com/Anuken/Mindustry
+  
 - name: Factorio
   url: 'https://github.com/factoriotools/factorio-docker'
 
