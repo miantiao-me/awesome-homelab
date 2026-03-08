@@ -1,5 +1,5 @@
 - name: Actual
-  url: 'https://github.com/actualbudget/actual-server'
+  url: 'https://github.com/actualbudget/actual'
 
 - name: Firefly
   url: 'https://github.com/firefly-iii/firefly-iii'
@@ -15,3 +15,6 @@
 
 - name: IHateMoney
   url: https://github.com/spiral-project/ihatemoney
+
+- name: ezBookkeeping
+  url: https://github.com/mayswind/ezbookkeeping

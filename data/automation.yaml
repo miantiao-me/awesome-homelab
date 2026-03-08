@@ -4,9 +4,6 @@
 - name: Huginn
   url: https://github.com/huginn/huginn
 
-- name: Mindustry
-  url: https://github.com/Anuken/Mindustry
-
 - name: StackStorm
   url: https://github.com/StackStorm/st2
 
