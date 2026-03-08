@@ -31,9 +31,6 @@
 - name: Mozilla Gateway
   url: https://github.com/WebThingsIO/gateway
 
-- name: Gladys
-  url: https://github.com/GladysAssistant/Gladys
-
 - name: Thingspeak
   url: https://github.com/iobridge/thingspeak
 
