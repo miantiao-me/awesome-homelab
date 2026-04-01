@@ -726,6 +726,7 @@
 | [Squid](https://github.com/squid-cache/squid)       | ![Squid](https://img.shields.io/github/stars/squid-cache/squid?style=flat) ![Squid](https://img.shields.io/github/languages/top/squid-cache/squid?style=flat)             | Squid Web Proxy Cache                                                                                                |
 | [Wireguard](https://github.com/WireGuard/wireguard) | ![Wireguard](https://img.shields.io/github/stars/WireGuard/wireguard?style=flat) ![Wireguard](https://img.shields.io/github/languages/top/WireGuard/wireguard?style=flat) | Historical monolithic WireGuard repository, split into wireguard-tools, wireguard-linux, and wireguard-linux-compat. |
 | [SmokePing](https://github.com/oetiker/SmokePing)   | ![SmokePing](https://img.shields.io/github/stars/oetiker/SmokePing?style=flat) ![SmokePing](https://img.shields.io/github/languages/top/oetiker/SmokePing?style=flat)     | The Active Monitoring System                                                                                         |
+| [Pipepie](https://github.com/pipepie/pipepie)       | ![Pipepie](https://img.shields.io/github/stars/pipepie/pipepie?style=flat) ![Pipepie](https://img.shields.io/github/languages/top/pipepie/pipepie?style=flat)             | Self-hosted encrypted tunnel for exposing localhost with end-to-end Noise NK encryption, webhook inspection, and web dashboard. |
 
 ### PhotoManagement
 
