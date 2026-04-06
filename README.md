@@ -12,6 +12,7 @@
 
 [Submit App](https://github.com/ccbikai/awesome-homelab/issues/new)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for homelab infrastructure workflow orchestration, automated server management, and multi-agent coordination. MIT licensed.
 ## Sponsors
 
 <a href="https://mkdirs.com/?via=miantiao">
